@@ -12,6 +12,7 @@ Next Release
   if (file_exists($global_settings)) {
     include $global_settings;
   }
+- Run the update script (Drupal was upgraded from 7.7 to 7.8)
 
 
 1.4 (example)
